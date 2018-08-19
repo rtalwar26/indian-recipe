@@ -1,0 +1,30 @@
+{
+  "name": "indian-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@lasso/marko-taglib": "~1.0.10",
+    "@types/node": "^10.0.9",
+    "gulp": "~4.0.0",
+    "gulp-livereload": "~3.8.1",
+    "lasso": "^3.1.5",
+    "lasso-less": "~2.4.7",
+    "lasso-marko": "^2.4.1",
+    "marko": "~4.9.7"
+  },
+  "dependencies": {
+    "@material/drawer": "^0.36.0",
+    "@material/layout-grid": "^0.34.0",
+    "@material/textfield": "^0.36.0",
+    "@material/theme": "^0.35.0",
+    "@material/top-app-bar": "^0.36.0",
+    "@material/typography": "^0.35.0",
+    "lasso-sass": "^3.0.0"
+  }
+}

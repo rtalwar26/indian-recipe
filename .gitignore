@@ -1,0 +1,11 @@
+public
+node_modules
+.cache
+node_modules
+.DS_Store
+*.marko.js
+*.js.map
+package-lock.json
+yarn.lock
+yarn-error.log
+orbitdb
